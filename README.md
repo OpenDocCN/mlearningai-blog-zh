@@ -91,6 +91,6 @@ mlearningai-blog-zh <port>
 
 霞鹜文楷采用 [SIL 开放字体协议 1.1](https://github.com/lxgw/LxgwWenKai/blob/main/SIL_Open_Font_License_1.1.txt)。
 
-## 赞助我们
+## 赞助我
 
-![](http://data.apachecn.org/img/about/donate.jpg)
+![](https://img-blog.csdnimg.cn/20200112005920729.png)
