@@ -25,7 +25,7 @@
         rgba(0, 148, 202, 1)：显示颜色
         mlearningai-blog-zh：ApacheCN 的 Github 仓库名称
 
-    asset/docsify-apachecn-footer.js
+    asset/docsify-flygon-footer.js
     
         mlearningai-blog-zh：ApacheCN 的 Github 仓库名称
 -->
@@ -40,7 +40,7 @@
 > 
 > 趁着年轻生猛，我要再和生活死磕几年。要么我就毁灭，要么我就铸就辉煌。如果有一天，你发现我在平庸面前低了头，那么请向我开炮。--《在路上》
 
-* [在线阅读](https://mlai.apachecn.org)
+* [在线阅读](https://mlai.flygon.net)
 ## 下载
 
 ### Docker
